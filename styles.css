@@ -1,0 +1,102 @@
+body {
+  font-family: 'Open Sans'
+}
+.nav {
+ background-color: #2A4053;
+ padding: 23px 20px;
+}
+
+.nav:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.logo-container,
+.nav-items,
+
+.nav-items li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+/* NAVIGATION */
+.logo,
+
+.nav-items li a {
+ color: #f9e42e;
+}
+
+.nav-items {
+  float: right;
+}
+/* Grid layout / columns */
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.col {
+  float: left;
+}
+
+.col_66 {
+  width: 66%;
+  background-color: yellow;
+}
+
+.col_33 {
+  width: 33%;
+  background-color: #f5f5f5;
+}
+/*COLUMN33*/
+.image1 {
+  margin: 0;
+  display: block;
+}
+/*COMMON HELPERS*/
+.color-white{
+  color: #fff;
+}
+.color-lightgrey{
+  color: #606161;
+}
+.color-yellow{
+  color:#f9e42e;
+}
+.fs-9{
+  font-size: 9px;
+}
+.fs-14{
+font-size: 14px;
+}
+.fs-18{
+  font-size: 18px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-24{
+    font-size: 24px;
+}
+.fw-300{
+  font-weight: 300;
+}
+.fw-600{
+    font-weight: 600;
+}
+.fw-800{
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
