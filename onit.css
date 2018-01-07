@@ -1,0 +1,122 @@
+body{
+	margin:0;
+	font-family:'Open Sans', sans-serif;
+}
+span.db a{
+	margin: 0 20px;
+}
+.top-bg{
+	background: center url(images/header_bg.jpg) no-repeat;
+	background-size: cover;
+	padding-bottom: 300px;
+}
+.logo{
+	margin-bottom: 0;
+}
+.center-960.benefits{
+	margin: 60px auto 40px;
+}
+.piece{
+	text-align: center;
+	margin: 120px 0 80px;
+}
+.paragraph{
+	width: 340px;
+}
+.ul-benefits{
+	width: 240px;
+	list-style-position: inside;
+	margin-top: 40px;
+}
+.bottom-bg{
+	background: center url(images/testimonial_bg.jpg) no-repeat;
+	background-size: cover;
+}
+.quote{
+text-align: center;
+padding: 60px 0;
+}
+.sign-up{
+	padding: 20px 0;
+}
+.footer{
+text-align: center;
+padding: 40px 0 10px;
+}
+
+/* COMMON HELPERS */
+.center-960{
+	max-width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.center-360{
+	max-width: 360px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.full-width{
+	width: 100%;
+}
+.color-white{
+	color: #fff;
+}
+.color-darkblue{
+	color: #033048;
+}
+.color-lightgrey{
+	color: #606161;
+}
+.color-yellow{
+	color:#f9e42e;
+}
+.fs-9{
+	font-size: 9px;
+}
+.fs-14{
+font-size: 14px;
+}
+.fs-18{
+	font-size: 18px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-24{
+    font-size: 24px;
+}
+}
+.fw-300{
+	font-weight: 300;
+}
+.fw-600{
+    font-weight: 600;
+}
+.fw-800{
+    font-weight: 800;
+}
+.italics{
+	font-style: italic;
+}
+.bg-yellow{
+	background-color: #f9e42e;
+}
+.bg-almostblack{
+	background-color: #121212;
+}
+.bg-lightgrey{
+	background-color: #606161;
+}
+.db{
+	display: block;
+	margin: 40px 0 60px;
+}
+.button{
+	font: 800 14px 'Open Sans', sans-serif; 
+	text-decoration: none;
+	border-radius: 5px;
+	display: table;
+	margin: 0 auto;
+	padding: 10px 40px;
+}
+/* END COMMON HELPERS */
